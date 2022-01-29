@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+D:\projects\ConsoleApplication1\ConsoleApplication1.cpp(319,25): warning C4101: 'even': unreferenced local variable
+  ConsoleApplication1.vcxproj -> D:\projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
